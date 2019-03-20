@@ -9,23 +9,12 @@ public class Zodiac {
         return name;
     }
 
-//    public void setName(String name) {
-//        this.name = name;
-//    }
-
-    public String getNumber(){
+    public String getNumber() {
         return number;
     }
 
-//    public void setNumber(String number){
-//        this.number = number;
-//    }
 
-    public String getImage(){
+    public String getImage() {
         return image;
     }
-
-//    public void setImage(String image){
-//        this.image = image;
-//    }
 }

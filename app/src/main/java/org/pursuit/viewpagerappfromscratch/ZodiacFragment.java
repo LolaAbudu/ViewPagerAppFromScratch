@@ -13,7 +13,6 @@ import android.widget.TextView;
 
 import com.squareup.picasso.Picasso;
 
-
 public class ZodiacFragment extends Fragment {
 
     private static final String NAME = "name";

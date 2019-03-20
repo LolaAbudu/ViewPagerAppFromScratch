@@ -9,8 +9,4 @@ public class ZodiacList {
     public List<Zodiac> getZodiac() {
         return zodiac;
     }
-
-//    public void setZodiac(List<Zodiac> zodiac) {
-//        this.zodiac = zodiac;
-//    }
 }
